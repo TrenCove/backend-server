@@ -1,0 +1,15 @@
+[submodule "AuthService"]
+	path = AuthService
+	url = https://github.com/TrenCove/AuthService.git
+[submodule "PaymentService"]
+	path = PaymentService
+	url = https://github.com/TrenCove/PaymentService.git
+[submodule "AuctionService"]
+	path = AuctionService
+	url = https://github.com/TrenCove/AuctionService.git
+[submodule "ItemService"]
+	path = ItemService
+	url = https://github.com/TrenCove/ItemService.git
+[submodule "BiddingService"]
+	path = BiddingService
+	url = https://github.com/TrenCove/BiddingService.git
