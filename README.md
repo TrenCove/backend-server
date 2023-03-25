@@ -30,6 +30,7 @@ Third, run the web server. The webserver can be found [here](https://github.com/
 To run the web server, please run within that directory
 
 ```bash
+npm install
 npm run build
 npm run start
 ```
